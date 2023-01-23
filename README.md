@@ -76,8 +76,9 @@
   <tr>
     <td class="tg-c4ow">21:30 ~ 23:00</td>
     <td class="tg-c4ow">길드KVM</td>
-    <td class="tg-c4ow">유물전장</td>
-    <td class="tg-baqh" rowspan="2">왕위쟁탈전 <br>자체이벤트<br>교차진행</td>
+    <td class="tg-c4ow">길드KVM</td>
+    <td class="tg-baqh" rowspan="2">공성전GVG <br>자체이벤트<br>교차진행</td>
+     <td class="tg-c4ow">길드KVM</td>
   </tr>
   <tr>
     <td class="tg-c4ow">22:00 ~ 23:00</td>
