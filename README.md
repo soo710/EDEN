@@ -54,6 +54,6 @@
 
 ## 팁
 
-## [공식라운지](https://game.naver.com/lounge/RAGNAROK_X_Next_Generation/home))
+## [공식라운지](https://game.naver.com/lounge/RAGNAROK_X_Next_Generation/home)
 
-## [마지르 합성 냄비 공식](https://ragnarokx.skychaserguild.com/rox-monster-database)
+## [인포사이트](https://ragnarokx.skychaserguild.com/rox-monster-database)
