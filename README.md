@@ -75,15 +75,17 @@
 <tbody>
   <tr>
     <td class="tg-c4ow">21:00 ~ 21:45</td>
-    <td class="tg-c4ow">길드KVM</td>
+    <td class="tg-c4ow"></td>
     <td class="tg-c4ow"></td>
     <td class="tg-baqh" rowspan="2">공성전GVG</td>
-     <td class="tg-c4ow">길드KVM</td>
+     <td class="tg-c4ow"></td>
   </tr>
   <tr>
     <td class="tg-c4ow">21:30 ~ 23:00</td>
     <td class="tg-c4ow">길드KVM</td>
+    <td class="tg-c4ow">길드KVM</td>
     <td class="tg-c4ow"></td>
+    <td class="tg-c4ow">길드KVM</td>
   </tr>
 </tbody>
 </table>
