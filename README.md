@@ -65,23 +65,24 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow">구분</th>
-    <th class="tg-c3ow">수요일</th>
-    <th class="tg-c3ow">토요일</th>
+    <th class="tg-c4ow">구분</th>
+    <th class="tg-c4ow">화요일</th>
+    <th class="tg-c4ow">목요일</th>
+    <th class="tg-c4ow">토요일</th>
     <th class="tg-baqh">일요일</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">21:00 ~ 22:00</td>
-    <td class="tg-c3ow">킹덤침공전</td>
-    <td class="tg-c3ow">유물전장</td>
+    <td class="tg-c4ow">21:30 ~ 23:00</td>
+    <td class="tg-c4ow">길드KVM</td>
+    <td class="tg-c4ow">유물전장</td>
     <td class="tg-baqh" rowspan="2">왕위쟁탈전 <br>자체이벤트<br>교차진행</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">22:00 ~ 23:00</td>
-    <td class="tg-c3ow">킹덤던전</td>
-    <td class="tg-c3ow">킹덤디펜스</td>
+    <td class="tg-c4ow">22:00 ~ 23:00</td>
+    <td class="tg-c4ow">길드KVM</td>
+    <td class="tg-c4ow">킹덤디펜스</td>
   </tr>
 </tbody>
 </table>
