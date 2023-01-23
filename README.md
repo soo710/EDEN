@@ -52,6 +52,12 @@
 
 - 길드 컨텐츠 GVG 진행시 디스코드(듣기) : 필수
 
+- 길드추방대상
+
+  _사유없는 1일이상 미접_
+  _공성2주이상 미출석자_
+  _주간공헌 56미만자_
+  
 ## 팁
 
 ## [공식라운지](https://game.naver.com/lounge/RAGNAROK_X_Next_Generation/home)
